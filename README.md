@@ -1,4 +1,5 @@
 **Einleitung**
+
 Das Marktumfeld, in dem sich Banken heute bewegen, ist gekennzeichnet durch Produkte und Leistungen, die zunehmend austauschbar werden. Im Umfeld von immer schnelleren Innovationszyklen, Fintech-Startups und Digitalisierung gilt eine gezielte und passgenaue Ansprache der Kunden heute als Erfolgsrezept, um neue Kunden zu gewinnen und die Kundenbindung zu erhöhen.
 
 Die Eigenschaften, die Kunden charakterisieren und ihre Bedürfnisse sind allerdings vielschichtig und lassen sich nicht auf einfache Charakteristika, wie Kontostand, Umsatz, Alter oder Geschlecht reduzieren. Multivariate Analysemethoden, wie die Clusteranalyse, berücksichtigen diese Vielfältigkeit der Merkmale und helfen dabei, die Realität möglichst genau abzubilden.
@@ -8,6 +9,7 @@ Mit steigender Menge und Verfügbarkeit von Kundendaten gewinnen Data Mining-Tec
 Forschungsfrage: Welche Kundentypen (Segmente) können wir aufgrund der Daten unterscheiden?
 
 **Clustering Methode / Theorie**
+
 Die Clusteranalyse gehört zu den Methoden des unüberwachten Lernens (unsupervised learning) und bezieht sich auf die Identifizierung von natürlichen Datengruppen (Partitionen) von Objekten (Clustern), die sich einander sehr ähnlich sind, sich aber stark von den Objekten in anderen Clustern unterscheiden. Die wahre Anzahl der Cluster ist dabei unbekannt.
 
 Um die Ähnlichkeit der Objekte quantifizieren zu können, wird ein Distanzmaß dist (x,y) beziehungsweise ein Ähnlichkeitsmaß simil (x,y) verwendet. Einige Beispiel für Distanzfunktionen sind die Hamming-Distanz, Euklidische Distanz, Manhattan- und Maximum-Distanz (Cleve & Lämmel, 2020).
